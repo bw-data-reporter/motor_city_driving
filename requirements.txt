@@ -1,0 +1,6 @@
+pandas
+ipykernel
+geopandas
+matplotlib
+openpyxl
+sklearn
