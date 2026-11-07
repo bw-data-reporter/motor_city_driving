@@ -1,4 +1,4 @@
-# motor_city_driving
+# Driving in the Motor City
 
 Data and code for Driving in the Motor City project for The Detroit News.
 
